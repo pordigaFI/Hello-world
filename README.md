@@ -17,3 +17,9 @@ Para que los cambios realizados en la rama "readme-edits" se reflejen en la rama
 En el cuadro de comparaciones se selecciona la rama donde hicimos las modificaciones y la rama con la que se desea comparar
 en este caso readme-edits vs main, examinamos los cambios y si se esta de acuerdo oprimimos el boton Crear solicitud de extraccion. y por último damos click en el boton "Crear solicitud de extracción".
 Podemos poner un título a esta solicitud de extracción y escribir una breve descripción de los cambios.
+
+Por último es necesario combinar la solicitud de extracción, con lo que se reuniran los cambios, fusionando los cambios de 
+la rama readme-edits con la rama main. Entonces oprimimos el boton verde "Combinar solicitud de extracción" para combinar 
+los cambios en main, luego "Confirmar la combinación" ya que los cambios han sido incorporados eliminamos la rama con el
+boton. Eliminar rama en el cuadro morado.
+
